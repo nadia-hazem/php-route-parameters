@@ -3,14 +3,17 @@ PHP Route Parameters
 Current Version
 v1.0.0
 
-Foundation Series — complete
-- ✅ MVC Starter
-- ✅ CRUD
-- ✅ View Engine
-- ✅ Route Parameters
+Collection
+PICTELLE PHP Starters — Foundation Series, Volume #4
 
-Next milestone (Advanced Series)
-- Authentication
+Foundation Series
+- ✅ #1 MVC Starter
+- ✅ #2 CRUD
+- ✅ #3 View Engine
+- ✅ #4 Route Parameters
+
+Next milestone
+- Authentication (Advanced Series)
 
 Future templates
 - Dashboard
