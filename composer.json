@@ -1,0 +1,20 @@
+{
+    "name": "pictelle/php-route-parameters",
+    "description": "Dynamic routes with URL parameters for a native PHP MVC architecture",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pictelle",
+            "email": "contact@pictelle.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
